@@ -45,9 +45,9 @@ cd PrintQueueSim
 python "Sistema de Cola FIFO para Impresión.py"
 ```
 Ejecución desde la terminal: 
-git clone https://github.com/Lvoyerg-Cloud/PrintQueueSim.git
-cd PrintQueueSim
-python "Sistema de Cola FIFO para Impresión.py"
+1. git clone https://github.com/Lvoyerg-Cloud/PrintQueueSim.git
+2. cd PrintQueueSim
+3. python "Sistema de Cola FIFO para Impresión.py"
 ## Funcionamiento del sistema
 
 El sistema realiza las siguientes operaciones:
