@@ -30,6 +30,8 @@ Antes de ejecutar el proyecto, asegúrese de contar con:
 ```bash
 git clone https://github.com/usuario/PrintQueueSim.git
 ```
+```Ejemplo:
+git clone https://github.com/Lvoyerg-Cloud/PrintQueueSim.git
 
 ### 2. Ingresar al directorio del proyecto
 
