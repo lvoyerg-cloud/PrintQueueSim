@@ -1,4 +1,3 @@
-# PrintQueueSim
 # PrintQueueSim - Sistema de Cola FIFO para Impresión
 
 ## Descripción
